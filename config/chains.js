@@ -1,0 +1,1 @@
+export const ethereumProvider = 'https://mainnet.infura.io/v3/YOUR_INFURA_PROJECT_ID';
